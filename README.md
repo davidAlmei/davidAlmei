@@ -12,7 +12,6 @@ I like working close to fundamentals, but I also enjoy shipping complete, usable
 | **ExamIQ** | End-to-end exam paper generation platform with role-based access for admins and teachers, section-wise locking, and submission validation | ![Next.js](https://img.shields.io/badge/Next.js-black) ![MongoDB](https://img.shields.io/badge/MongoDB-green) ![TypeScript](https://img.shields.io/badge/TypeScript-blue) |
 | **ProjectSphere** | Centralized repository for student projects with categorization, search, and peer reviews | ![Supabase](https://img.shields.io/badge/Supabase-green) ![AWS](https://img.shields.io/badge/AWS-orange) |
 | **License Plate Detection** | Real-time license plate detection and text extraction from traffic videos using YOLO | ![YOLO](https://img.shields.io/badge/YOLO-red) ![OpenCV](https://img.shields.io/badge/OpenCV-green) |
-<!--| **PlaceMate** | Placement preparation system that identifies weak topics via tests and generates personalized 2-week learning plans | ![Python](https://img.shields.io/badge/Python-blue) ![ML](https://img.shields.io/badge/Machine%20Learning-orange) | -->
 
 ---
 
@@ -22,8 +21,8 @@ I like working close to fundamentals, but I also enjoy shipping complete, usable
   <img src="https://streak-stats.demolab.com?user=davidAlmei&theme=dark&hide_border=true" />
 </p>
 
-
 ---
+
 ## ⚙️ Tech I Work With
 
 ### 🧑‍💻 Languages
