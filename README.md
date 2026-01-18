@@ -17,7 +17,7 @@ I like working close to fundamentals, but I also enjoy shipping complete, usable
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com?user=davidAlmei&theme=dark&hide_border=true" />
 </p>
 
