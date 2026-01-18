@@ -14,31 +14,37 @@ I like working close to fundamentals, but I also enjoy shipping complete, usable
 <!--| **PlaceMate** | Placement preparation system that identifies weak topics via tests and generates personalized 2-week learning plans | ![Python](https://img.shields.io/badge/Python-blue) ![ML](https://img.shields.io/badge/Machine%20Learning-orange) | -->
 | **License Plate Detection** | Real-time license plate detection and text extraction from traffic videos using YOLO | ![YOLO](https://img.shields.io/badge/YOLO-red) ![OpenCV](https://img.shields.io/badge/OpenCV-green) |
 
-
 ---
 
 ## ⚙️ Tech I Work With
 
-**Languages**
-- Python
-- Java
-- JavaScript / TypeScript
-- SQL
+### 🧑‍💻 Languages
+![Python](https://img.shields.io/badge/Python-blue)
+![Java](https://img.shields.io/badge/Java-red)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
 
-**Frameworks & Tools**
-- Spring Boot
-- React / Next.js
-- MongoDB
-- OpenCV
-- YOLO
-- Scikit-learn
+---
 
-**Concepts**
-- Machine Learning & Deep Learning
-- NLP fundamentals
-- Backend system design
-- Authentication & authorization
-- REST APIs
+### 🛠️ Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen)
+![React](https://img.shields.io/badge/React-blue)
+![Next.js](https://img.shields.io/badge/Next.js-black)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+![OpenCV](https://img.shields.io/badge/OpenCV-green)
+![YOLO](https://img.shields.io/badge/YOLO-red)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-orange)
+
+---
+
+### 🧠 Concepts
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange)
+![NLP](https://img.shields.io/badge/NLP-blue)
+![Backend](https://img.shields.io/badge/Backend%20Systems-black)
+![Auth](https://img.shields.io/badge/Auth%20%26%20Security-red)
+![REST](https://img.shields.io/badge/REST%20APIs-lightgrey)
 
 ---
 
@@ -63,7 +69,7 @@ I like working close to fundamentals, but I also enjoy shipping complete, usable
 ## 📬 Let's Connect
 
 - 📧 Email: **05davidalmeida@gmail.com**
-- 💼 LinkedIn: *https://www.linkedin.com/in/davidalmeida200005/*
+- 💼 LinkedIn: https://www.linkedin.com/in/davidalmeida200005/
 
 I'm always open to discussing ideas, projects, and collaborations.
 
