@@ -57,10 +57,9 @@ I like working close to fundamentals, but I also enjoy shipping complete, usable
 
 ## 🚀 Current Endeavors
 
-- 📘 Learning **Spring Boot** and backend architecture deeply  
-- 🤖 Exploring **NLP, LLMs**, and model internals  
-- 🌱 Preparing for **GSoC** and open-source contributions  
-- 🧠 Building AI-driven systems with real users, not just demos  
+- 📘 Learning Spring Boot and backend architecture deeply  
+- 🤖 Exploring NLP, LLMs, and model internals  
+- 🌱 Making open-source contributions  
 
 ---
 
