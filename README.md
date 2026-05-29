@@ -58,7 +58,7 @@ I like working close to fundamentals, but I also enjoy shipping complete, usable
 ## 🚀 Current Endeavors
 
 - 📘 Learning Spring Boot and backend architecture deeply  
-- 🤖 Exploring NLP, LLMs, and model internals  
+- 🤖 Exploring System Design, NLP, and model internals
 - 🌱 Making open-source contributions  
 
 ---
