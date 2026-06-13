@@ -27,8 +27,8 @@ I like working close to fundamentals, but I also enjoy shipping complete, usable
 ## ⚙️ Tech I Work With
 
 ### 🧑‍💻 Languages
-![Python](https://img.shields.io/badge/Python-blue)
 ![Java](https://img.shields.io/badge/Java-red)
+![Python](https://img.shields.io/badge/Python-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey)
@@ -38,7 +38,6 @@ I like working close to fundamentals, but I also enjoy shipping complete, usable
 ### 🛠️ Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen)
 ![React](https://img.shields.io/badge/React-blue)
-![Next.js](https://img.shields.io/badge/Next.js-black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
 ![OpenCV](https://img.shields.io/badge/OpenCV-green)
 ![YOLO](https://img.shields.io/badge/YOLO-red)
@@ -47,20 +46,20 @@ I like working close to fundamentals, but I also enjoy shipping complete, usable
 ---
 
 ### 🧠 Concepts
+![Backend](https://img.shields.io/badge/Backend%20Systems-black)
+![REST](https://img.shields.io/badge/REST%20APIs-lightgrey)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange)
 ![NLP](https://img.shields.io/badge/NLP-blue)
-![Backend](https://img.shields.io/badge/Backend%20Systems-black)
 ![Auth](https://img.shields.io/badge/Auth%20%26%20Security-red)
-![REST](https://img.shields.io/badge/REST%20APIs-lightgrey)
 
 ---
 
 ## 🚀 Current Endeavors
 
-- 📘 Learning Spring Boot and backend architecture deeply  
-- 🤖 Exploring System Design, NLP, and model internals
-- 🌱 Making open-source contributions  
+- Learning Spring Boot and backend architecture deeply  
+- Exploring System Design, NLP, and model internals
+- Making open-source contributions  
 
 ---
 
