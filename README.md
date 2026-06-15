@@ -65,9 +65,9 @@ I like working close to fundamentals, but I also enjoy shipping complete, usable
 
 ## 🤝 Open to
 
+- Backend / ML heavy systems  
 - Open-source collaboration  
 - Research-oriented projects  
-- Backend / ML heavy systems  
 - Learning from strong engineers  
 
 ---
