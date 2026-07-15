@@ -27,7 +27,7 @@ I like working close to fundamentals, but I also enjoy shipping complete, usable
 
 ## ⚙️ Tech I Work With
 
-### 🧑‍💻 Languages
+### Languages
 ![Java](https://img.shields.io/badge/Java-red)
 ![Python](https://img.shields.io/badge/Python-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
@@ -36,7 +36,7 @@ I like working close to fundamentals, but I also enjoy shipping complete, usable
 
 ---
 
-### 🛠️ Frameworks & Tools
+### Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen)
 ![React](https://img.shields.io/badge/React-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
@@ -46,7 +46,7 @@ I like working close to fundamentals, but I also enjoy shipping complete, usable
 
 ---
 
-### 🧠 Concepts
+### Concepts
 ![Backend](https://img.shields.io/badge/Backend%20Systems-black)
 ![REST](https://img.shields.io/badge/REST%20APIs-lightgrey)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)
@@ -56,7 +56,7 @@ I like working close to fundamentals, but I also enjoy shipping complete, usable
 
 ---
 
-## 🚀 Current Endeavors
+## Current Endeavors
 
 - Learning Spring Boot and backend architecture deeply  
 - Exploring System Design, NLP, and model internals
@@ -73,10 +73,10 @@ I like working close to fundamentals, but I also enjoy shipping complete, usable
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
-- 📧 Email: **05davidalmeida@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/davidalmeida200005/
+- Email: **05davidalmeida@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/davidalmeida200005/
 
 I'm always open to discussing ideas, projects, and collaborations.
 
