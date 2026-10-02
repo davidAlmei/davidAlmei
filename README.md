@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm David
 
-I'm a computer science student who enjoys building things that sit at the intersection of **ML**, **backend systems**, and **real-world problem solving**.  
+I'm a computer science student who enjoys building things that sit at the intersection of **backend systems**,**cloud computing**,**ML** and **real-world problem solving**.  
 I like working close to fundamentals, but I also enjoy shipping complete, usable products.
 
 ---
